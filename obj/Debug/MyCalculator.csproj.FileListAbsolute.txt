@@ -1,0 +1,10 @@
+C:\Users\owner\Documents\KennyProjects\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\owner\Documents\KennyProjects\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\owner\Documents\KennyProjects\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\owner\Documents\KennyProjects\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\owner\Documents\KennyProjects\MyCalculator\obj\Debug\MyCalculator.frmCalculator.resources
+C:\Users\owner\Documents\KennyProjects\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\owner\Documents\KennyProjects\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+C:\Users\owner\Documents\KennyProjects\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\KennyProjects\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\owner\Documents\KennyProjects\MyCalculator\obj\Debug\MyCalculator.pdb
